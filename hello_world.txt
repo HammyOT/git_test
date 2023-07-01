@@ -1,0 +1,3 @@
+Hello World! 
+This is HammyOT and this is my first coding repo ever.
+To my future self, hope eveyrhting all works out!
